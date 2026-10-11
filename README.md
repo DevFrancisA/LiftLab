@@ -39,7 +39,3 @@ npm run check:data   # sanity-check the simulation
 Demo states: append `?demo=slow` (loading) or `?demo=error` (error + retry) to the URL.
 
 Built with React, TypeScript, and Vite. Charts are hand-written SVG. Pushes to `main` deploy to GitHub Pages through `.github/workflows/deploy.yml`.
-
-## Accessibility
-
-Keyboard-operable everything (the chart cutoff is an ARIA slider; arrows, Shift+arrows, Home/End), focus-trapped drawer with Esc and focus return, `aria-sort` on table headers, visible labels on controls, color never the only signal (icons and text accompany coral/amber states), `prefers-reduced-motion` respected, and layouts down to 390px wide with no horizontal page scroll.
