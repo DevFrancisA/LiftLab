@@ -1,6 +1,7 @@
 # LiftLab
 
 **Find the audiences an ad actually persuades.**
+
 Ad recommendation dashboard that compares 3 targeting strategies: an uplift model, two-model baseline, and random targeting with confidence intervals, so you can decide where your ad spend should go.
 
 **Live site → https://devfrancisa.github.io/LiftLab/**
