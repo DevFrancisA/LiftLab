@@ -1,6 +1,7 @@
 # LiftLab
 
-**Find the audiences an ad actually persuades.** LiftLab is a dashboard for uplift-based ad targeting: it ranks people by how much seeing an ad changes their chance of converting, then shows what a targeting budget buys compared with random targeting and a two-model baseline.
+**Find the audiences an ad actually persuades.**
+Ad recommendation dashboard that compares 3 targeting strategies: an uplift model, two-model baseline, and random targeting with confidence intervals, so you can decide where your ad spend should go.
 
 **Live site → https://devfrancisa.github.io/LiftLab/**
 
